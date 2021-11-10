@@ -30,7 +30,7 @@ In designing and building your project, you will start by forking and cloneing t
 2. **Edit the text above to include specifics of your project.**
 3. **Commit, push, and submit a pull request to this repo with your edited pitch README.**
 4. *After you have met with a staff member and your pitch has been approved, suggested next steps:*
-      * Write out your routes and create a RESTful routing chart (good example [here](https://gk-hynes.github.io/restful-routes-chart/)).
+      * Write out your routes and create a RESTful routing chart.
       * Come up with a breakdown of what you plan to accomplish each day and how you are going to accomplish it.
       * Create a new git repo for your project. 
       * Make all test API calls you need to to ensure your API will be usable for this project. 
