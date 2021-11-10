@@ -19,10 +19,11 @@ In designing and building your project, you will start by forking and cloneing t
      * Can be handdrawn, or with tool of your choice
      * Example online tool: [Miro.com](https://miro.com/)
 5. API you plan to use
-6. Example of how to call/invoke your API, and a description of what data comes back. 
-7. MVP goals (x3-5)
-8. Stretch goals (x2-5)
-9. Any potential roadblocks?
+6. ERD
+7. Example of how to call/invoke your API, and a description of what data comes back. 
+8. MVP goals (x3-5)
+9. Stretch goals (x2-5)
+10. Any potential roadblocks?
 
 ## How to get started
 1. **Fork and clone this repository.**
