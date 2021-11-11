@@ -20,7 +20,12 @@ In designing and building your project, you will start by forking and cloneing t
 5. API BEING USED: 
 * https://kitsu.docs.apiary.io/#
 6. ERD
-7. Example of how to call/invoke your API, and a description of what data comes back. 
+7. Example of how to call/invoke your API, and a description of what data comes back:
+Call API with: https://kitsu.io/api/edge/
+
+GET: https://kitsu.io/api/edge/anime?filter[text]=samurai%20champloo  
+returns the anime with the title of samurai champloo(Tested with Postman)
+
 8. MVP GOALS:
 * Be able to add an anime to your favorites list.
 * On your favorites page show certain details about each anime.
