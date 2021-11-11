@@ -13,17 +13,26 @@ In your second project you will create a full stack Express and Postgres app whi
 ## Project 2 Pitch Guidelines
 
 In designing and building your project, you will start by forking and cloneing this repository, and then editing this README to include the following information: 
-1. Name of your app
-2. Tech stack you plan to use
+1. LightweightKitsu
+2. PEN
 3. Simple wireframes
      * Can be handdrawn, or with tool of your choice
      * Example online tool: [Miro.com](https://miro.com/)
-5. API you plan to use
+5. API BEING USED: 
+* https://kitsu.docs.apiary.io/#
 6. ERD
 7. Example of how to call/invoke your API, and a description of what data comes back. 
-8. MVP goals (x3-5)
-9. Stretch goals (x2-5)
+8. MVP GOALS:
+* Be able to add an anime to your favorites list.
+* On your favorites page show certain details about each anime.
+* Be able to delete favorites from your list.
+* A button that lands on you a random anime page to check out.
+9. STRECH GOALS:
+* User login
+* Dark mode?
+* Make links to certain characters wikipedia.
 10. Any potential roadblocks?
+* I think reading through the API docs and understanding how it works will be my first hurdle.
 
 ## How to get started
 1. **Fork and clone this repository.**
