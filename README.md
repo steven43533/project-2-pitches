@@ -31,9 +31,8 @@ returns the anime with the title of samurai champloo(Tested with Postman)
 * Be able to add an anime to your favorites list.
 * On your favorites page show certain details about each anime.
 * Be able to delete favorites from your list.
-* A button that lands on you a random anime page to check out.
+* Wishlist(want to watch) page that stores animes you'd like to watch later
 9. STRECH GOALS:
-* User login
 * Dark mode?
 * Make links to certain characters wikipedia.
 10. Any potential roadblocks?
